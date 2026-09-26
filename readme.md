@@ -5,13 +5,7 @@
 	<br>
 	<br>
 	<div>
-		<sub>Check out my macOS app</sub>
-		<br>
-		<h2>
-			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
-			<br>
-			<sup>Elevate your Mac experience</sup>
-		</h2>
+		<sub>Check out my 
 	</div>
 	<br>
 	<br>
@@ -855,12 +849,6 @@
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
-- [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
-
-## Related
-
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+- [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+- [Track Awesome 
